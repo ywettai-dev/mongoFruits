@@ -1,0 +1,22 @@
+{
+  "name": "mongofruits",
+  "version": "1.0.0",
+  "description": "Mongo Fruits with mogodb and nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywettai-dev/mongoFruits.git"
+  },
+  "author": "ywettai-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywettai-dev/mongoFruits/issues"
+  },
+  "homepage": "https://github.com/ywettai-dev/mongoFruits#readme",
+  "dependencies": {
+    "mongodb": "^3.2.6"
+  }
+}
